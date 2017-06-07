@@ -1,0 +1,40 @@
+name: Daniele Niero
+layout_spectrum: 0.595793557880391
+typography_spectrum: 0.285459966880297
+opengraph:
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  brandStrength: 0.7701792328819486
+  lightness: 0.4680987089359672
+  saturation: 0.009252337575198548
+  rhythmicContrast: 0.6778907749099233
+purpose:
+  - type: contact
+    label: Contact me
+    url: 'mailto:daniele.niero@gmail.com'
+title: A Character TD's Place
+description: Daniele Niero's experimental website with thegrid
+author:
+  name: daniele.niero
+  email: daniele.niero@gmail.com
+content_rating:
+  adult: false
+navigation:
+  - name: About Me
+    id: e001cc26-7dd7-40d4-b312-2c3a719559a4
+    type: content
+  - name: Membranae Deformer
+    id: ec9336f9-7ee9-469c-82ff-f350b3958834
+    type: content
+  - name: Curriculum
+    id: edf5f64b-e52f-409c-898d-11bbed6945c3
+    type: content
+content: []
+github: true
