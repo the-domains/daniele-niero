@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[A Character TD's Place]]></title>
+        <description><![CDATA[A Character TD's Place]]></description>
+        <link>https://thegrid.ai/daniele-niero/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 May 2017 15:41:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/daniele-niero/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Wed, 17 May 2017 15:41:30 GMT</pubDate>
+        <item>
+            <title><![CDATA[Horizon - Zero Dawn]]></title>
+            <description><![CDATA[<h1>Horizon - Zero Dawn</h1>,<p>This is the project I’m working on at Guerrilla Games.</p>,<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FFkg5UVTsKCE%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFkg5UVTsKCE&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FFkg5UVTsKCE%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://thegrid.ai/daniele-niero/horizon-zero-dawn/index.html</link>
+            <guid isPermaLink="false">8a8dec37-3ae2-44ec-9c62-de011d2b3662</guid>
+            <pubDate>Mon, 05 Sep 2016 10:19:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="https://media.playstation.com/is/image/SCEA/horizon-zero-dawn-screen-05-ps4-us-13jun16?$MediaCarousel_Original$"></article>]]></description>
+            <link>https://media.playstation.com/is/image/SCEA/horizon-zero-dawn-screen-05-ps4-us-13jun16?$MediaCarousel_Original$</link>
+            <guid isPermaLink="false">ce11488f-1646-44b2-9949-ef499733dd5f</guid>
+            <pubDate>Wed, 17 May 2017 15:41:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Curriculum]]></title>
+            <description><![CDATA[<h1>Curriculum</h1>,<p>Daniele Niero Senior Tech Artist/Character Td at Guerrilla Games daniele.niero@gmail.com</p>]]></description>
+            <link>https://thegrid.ai/daniele-niero/curriculum/index.html</link>
+            <guid isPermaLink="false">4d1593f2-9bc8-4300-83d2-4057e5dc5dad</guid>
+            <pubDate>Mon, 23 Jan 2017 10:18:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Horizon Zero Dawn - E3 2016 Watchers: Power Up Trailer | PS4]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F696zm_eCyNM%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D696zm_eCyNM&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F696zm_eCyNM%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.youtube.com/watch?v=696zm_eCyNM</link>
+            <guid isPermaLink="false">80f144fa-5f3f-4e1f-9e25-a5030e9bb138</guid>
+            <pubDate>Fri, 09 Sep 2016 08:17:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/86447e7d-7219-4fb8-b781-3f69466eea55.jpg">,<h1>About Me</h1>,<p>My education and background are artistic but during my career I progressively developed good technical and programming skills. <br>I believe that these mixed skills is what set me apart.</p>,<p>My artistic education always helped me to get accurate anatomy and an extreme attention to deformations and facial expressions.<br>On the other hand, the programming skills I have gained, especially in Python and C++, give me an extra boost to solve rigging problems and implement new solutions.<br>My knowledge in programming is not only useful for rigging. Many times I have been tasked to solve pipeline related problems, such as developing custom file formats for<br>animation or skins weights, converting motion capture data, communicating with asset management tools and so on.</p>,<p>I might be consider a programmer with an extreme passion for character animation. In reality I enjoy any aspect of the character development.<br>My ideal job would be one where I'll be able to do as many different things as possible and learn something new in the process.</p>,<p>Specialties: <br> * Custom tools for rigging and animation<br> * Animation pipeline<br> * Developing object oriented automatic rigging systems</p>]]></description>
+            <link>https://thegrid.ai/daniele-niero/about-me/index.html</link>
+            <guid isPermaLink="false">e001cc26-7dd7-40d4-b312-2c3a719559a4</guid>
+            <pubDate>Mon, 12 Sep 2016 08:47:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
